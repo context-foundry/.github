@@ -19,7 +19,7 @@
 
 ## What is Context Foundry?
 
-Context Foundry 2.0 is an **MCP (Model Context Protocol) server** that empowers Claude Code CLI to build complete software projects autonomously. Unlike traditional AI coding tools that require constant supervision, Context Foundry lets you **describe what you want and walk away** while it:
+Context Foundry is an **MCP (Model Context Protocol) server** that empowers Claude Code CLI to build complete software projects autonomously. Unlike traditional AI coding tools that require constant supervision, Context Foundry lets you **describe what you want and walk away** while it:
 
 - 🔍 **Researches** requirements (Scout phase)
 - 🏗️ **Designs** architecture (Architect phase)
@@ -39,7 +39,7 @@ Result: ✅ Complete game deployed to GitHub, all tests passing
 ## Featured Repository
 
 ### [context-foundry/context-foundry](https://github.com/context-foundry/context-foundry)
-The main Context Foundry 2.0 MCP server with autonomous build workflows, self-healing test loops, and GitHub deployment automation.
+The main Context Foundry MCP server with autonomous build workflows, self-healing test loops, and GitHub deployment automation.
 
 **Key Features:**
 - 🤖 Fully autonomous Scout → Architect → Builder → Test → Deploy workflow
@@ -51,7 +51,7 @@ The main Context Foundry 2.0 MCP server with autonomous build workflows, self-he
 
 ## Quick Start
 
-**Prerequisites:** Python 3.10+, Claude Code CLI, Claude Max subscription ($20/month)
+**Prerequisites:** Python 3.10+, Claude Code CLI, Claude subscription or API
 
 ```bash
 # 1. Clone and install
@@ -76,15 +76,15 @@ That's it! The system builds autonomously (7-15 min) and deploys to GitHub.
 
 **Full setup guide:** [QUICKSTART.md](https://github.com/context-foundry/context-foundry/blob/main/QUICKSTART.md)
 
-## Why Context Foundry 2.0?
+## Why Context Foundry?
 
-| Feature | Traditional AI Coding | Context Foundry 2.0 |
+| Feature | Traditional AI Coding | Context Foundry |
 |---------|----------------------|---------------------|
 | **Development Mode** | Interactive (constant supervision) | Autonomous (walk away) |
 | **Testing** | Manual review at checkpoints | Self-healing auto-fix loops |
 | **Deployment** | Manual git operations | Automatic GitHub deployment |
 | **Context Limits** | API conversation history | File-based artifacts (unlimited) |
-| **Cost Model** | Pay-per-token ($3-10/project) | Claude Max subscription ($20/month unlimited) |
+| **Cost Model** | Pay-per-token ($3-10/project) | Claude subscription (unlimited) |
 | **Quality Assurance** | Developer validates tests | Tests must pass before deployment |
 
 ## Documentation
@@ -98,7 +98,7 @@ That's it! The system builds autonomously (7-15 min) and deploys to GitHub.
 
 ## Philosophy
 
-**Context Foundry 2.0 Philosophy:**
+**Context Foundry Philosophy:**
 - **Autonomous over supervised** - Walk away while it builds
 - **Self-healing over manual debugging** - Auto-fix test failures
 - **File-based over conversation-based** - No token limits
@@ -114,6 +114,6 @@ That's it! The system builds autonomously (7-15 min) and deploys to GitHub.
 ---
 
 <p align="center">
-  <strong>Context Foundry 2.0</strong> - Build complete software autonomously with self-healing AI workflows<br>
-  <sub>Version 2.0.1 • MIT License • Powered by Claude Code & MCP</sub>
+  <strong>Context Foundry</strong> - Build complete software autonomously with self-healing AI workflows<br>
+  <sub>Version 2.1.0 • MIT License • Powered by Claude Code & MCP</sub>
 </p>
