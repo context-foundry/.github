@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/context-foundry/context-foundry/main/docs/assets/banner-1280x320-dark.png" alt="Context Foundry" width="100%">
+  <img src="https://raw.githubusercontent.com/context-foundry/context-foundry/main/docs/assets/cf_logo_twitter_2025.png" alt="Context Foundry" width="100%">
 </div>
 
 <h1 align="center">Welcome to Context Foundry</h1>
